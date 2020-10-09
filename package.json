@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aarongarvey/binance"
+    "url": "https://github.com/Aduraline/binance"
   },
   "keywords": [
     "api",
@@ -27,12 +27,13 @@
     "btc",
     "eth"
   ],
-  "author": "Aaron Garvey",
+  "author": "Enoch Olutunmida",
   "contributors": [
     "Clifford Roche <clifford.roche@gmail.com> (http://www.cliffordroche.ca)",
     "Aslam Hadi H <aslamhadi@gmail.com> (https://www.commitcode.com)",
     "Andrey Vorobyov <vorandrew@gmail.com>",
-    "Gavy Aggarwal (http://gavyaggarwal.com/)"
+    "Gavy Aggarwal (http://gavyaggarwal.com/)",
+    "Enoch Olutunmida <aduraline19065@gmail.com> (http://www.about.me/olutunmida)"
   ],
   "license": "MIT",
   "types": "index.d.ts",
